@@ -3,7 +3,7 @@ using namespace std;
 using namespace std::chrono;
 
 
-//.......................................implementing trie data structure........................................................
+//..........................................implementing trie data structure........................................................
 
 struct Trie                 
 {
